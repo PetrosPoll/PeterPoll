@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PeterPoll
+- 👋 Hi, I’m Petros Pollakis
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning a lot of different things based on programming.
 - 💞️ I’m looking to collaborate with everyone.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Petros Pollakis
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning a lot of different things based on programming.
+- 👀 I really like programming 
+- 🌱 I’m always learnign.
 - 💞️ I’m looking to collaborate with everyone.
 - 📫 My email is pollakis.p6@gmail.com
 
